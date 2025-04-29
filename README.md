@@ -96,7 +96,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/SmartA.git
+git clone (https://github.com/suman200305/Website-for-Soil-Classification-and-Vegetable-Price-Prediction)
 cd SmartA
 Create a virtual environment:
 
