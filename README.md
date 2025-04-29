@@ -134,5 +134,5 @@ Vegetable Price Prediction
 Soil Type Classification
 
 👥 Contributors
-Abhik Sarkar
+Abhik Sarkar,
 Tushar Paul
